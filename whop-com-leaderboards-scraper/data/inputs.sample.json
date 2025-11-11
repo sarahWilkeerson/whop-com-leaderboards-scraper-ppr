@@ -1,0 +1,10 @@
+{
+  "urls": [
+    "https://whop.com/discover/leaderboards/",
+    "https://whop.com/discover/leaderboards/f/most_reviews_24_hours/"
+  ],
+  "filters": {
+    "rankingRange": [1, 100],
+    "minimumReviews": 50
+  }
+}
