@@ -1,0 +1,8 @@
+{
+  "startUrls": [
+    "https://whop.com/discover/leaderboards/",
+    "https://whop.com/discover/leaderboards/f/most_reviews_24_hours/"
+  ],
+  "outputFormat": "json",
+  "proxyRotation": true
+}
